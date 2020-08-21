@@ -1,4 +1,4 @@
-This model uses runs WinBUGS from R
+This model runs WinBUGS from R to determine incidence
 
 Requirements:
 
